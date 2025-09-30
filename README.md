@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ale.cofre.perez@gmail.com**
 
-# PROYECTOS DESTACADOS
+# FEATURED PROJECTS
 
 ## FRONTEND
 - [BICIS-LOCAS : ](https://alecofre.github.io/bicis-locas/) Use of Javascript-JQuery (link to github pages)

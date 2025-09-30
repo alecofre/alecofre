@@ -7,7 +7,13 @@
 
 # PROYECTOS DESTACADOS
 
-- BICIS-LOCAS: https://alecofre.github.io/bicis-locas/ Evaluación 2 Javascript-JQuery, curso full-stack Python
+## FRONTEND
+- BICIS-LOCAS: https://alecofre.github.io/bicis-locas/ Uso de Javascript-JQuery
+
+## FULL STACK
+- The Wall: https://alecofre.github.io/thewall/ Ejercicio de aplicación web de un muro de mensajes para la comunidad de un edificio, usando framework Django
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

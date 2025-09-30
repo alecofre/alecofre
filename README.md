@@ -8,10 +8,10 @@
 # PROYECTOS DESTACADOS
 
 ## FRONTEND
-- BICIS-LOCAS: https://alecofre.github.io/bicis-locas/ Uso de Javascript-JQuery
+- [BICIS-LOCAS : ](https://alecofre.github.io/bicis-locas/) Uso de Javascript-JQuery (enlace a github pages)
 
 ## FULL STACK
-- The Wall: https://alecofre.github.io/thewall/ Ejercicio de aplicación web de un muro de mensajes para la comunidad de un edificio, usando framework Django
+- [The Wall : ](https://github.com/alecofre/thewall) Ejercicio de aplicación web de un muro de mensajes para la comunidad de un edificio, usando framework Django (enlace al repositorio)
 
 
 

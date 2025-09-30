@@ -14,7 +14,7 @@
 - [The Wall : ](https://github.com/alecofre/thewall) Exercise on a community message wall web application using the Django framework (link to repository)
 
 ## MACHINE LEARNING
-- [API for breast cancer prognosis : ](https://github.com/alecofre/breast_cancer_api) Containerization of an API for a breast cancer prognostic model using Sklearn, Flask, and Docker
+- [API for breast cancer prognosis : ](https://github.com/alecofre/breast_cancer_api) Containerization of an API for a breast cancer prognostic model using Sklearn, Flask, and Docker (link to repository)
 
 
 

@@ -5,6 +5,10 @@
 
 - 📫 How to reach me **ale.cofre.perez@gmail.com**
 
+# PROYECTOS DESTACADOS
+
+- BICIS-LOCAS: https://alecofre.github.io/bicis-locas/ Ejercicio acerca de JQuery
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/alejandro-cofre-perez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-cofre-perez" height="30" width="40" /></a>

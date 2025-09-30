@@ -7,7 +7,7 @@
 
 # PROYECTOS DESTACADOS
 
-- BICIS-LOCAS: https://alecofre.github.io/bicis-locas/ Ejercicio acerca de JQuery
+- BICIS-LOCAS: https://alecofre.github.io/bicis-locas/ Evaluación 2 Javascript-JQuery, curso full-stack Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
